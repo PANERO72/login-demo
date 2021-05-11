@@ -23,7 +23,7 @@
     "@fortawesome/angular-fontawesome": "^0.4.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "ngx-highlightjs": "^3.0.3",
     "npm-registry-fetch": "^8.1.1",
     "rxjs": "~6.5.3",
